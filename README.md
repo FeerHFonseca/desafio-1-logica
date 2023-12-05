@@ -1,4 +1,5 @@
-# desafio-1-logica
+# Desafio-1-Lógica
+
 Desafio Classificador de nível de Herói
 
 /**O Que deve ser utilizado**
